@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-core
+transformers
+sentence-transformers
+chromadb
+bitsandbytes
+accelerate
+keras==2.11.0
+tf-keras
+faker
+times
