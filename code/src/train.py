@@ -364,4 +364,5 @@ def process_uploaded_files(customer_file, financial_file, transactions_file, enq
     st.sidebar.download_button("📥 Download Merged Data", data=csv, file_name="merged_data.csv", mime="text/csv")
 
 #  Run the Processing Function
+if __name__ == "__main__":
 process_uploaded_files(customer_file, financial_file, transactions_file, enquiry_file)
