@@ -106,6 +106,10 @@ UI & Performance → Keeping the Streamlit app responsive with real-time recomme
 
      ![image](https://github.com/user-attachments/assets/42386210-0a9d-4d77-973e-fe04139dca38)
      
+## Future Development
+As part of future development, we plan to train the model within this UI by integrating data from multiple sources.
+![alt text](artifacts/arch/future_dev.png)
+
 ## Tech Stack
 - 🔹 Frontend: streamlit
 - 🔹 Machine Learning: HuggingFace, CUDA,
