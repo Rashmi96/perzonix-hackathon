@@ -49,10 +49,10 @@ UI & Performance → Keeping the Streamlit app responsive with real-time recomme
    https://colab.research.google.com
 
 2. Install dependencies in colab
-![alt text](arch/colab_image.png)
+![alt text](artifacts/arch/colab_image.png)
 
 3. Run the project  
-![alt text](arch/UI_image.png)
+![alt text](artifacts/arch/UI_image.png)
 
 
 ## 🏗️ Tech Stack
