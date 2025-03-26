@@ -30,10 +30,13 @@ This Enterprise-Grade Personalization and Recommendation System leverages a comb
 
 ## Challenges We Faced
 Large-Scale Data Processing → Efficient storage and retrieval of vast customer datasets.
+
 AI Model Optimization → Zephyr-7B required GPU acceleration and tuning for real-time performance.
+
 Vector Database Performance → Optimizing ChromaDB for fast and scalable embeddings retrieval.
+
 Complex Sentiment Analysis → Extracting insights from unstructured, slang-heavy social media data.
-Privacy & Compliance → Balancing personalization while ensuring financial data privacy (e.g., GDPR).
+
 UI & Performance → Keeping the Streamlit app responsive with real-time recommendations.
 
 ## Steps for Execution
