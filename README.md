@@ -1,6 +1,6 @@
-# 🚀 Project Name
+# Hyper-Personaization and Recommendation System
 
-## 📌 Table of Contents
+## Table of Contents
 - [Introduction](#introduction)
 - [Demo](#demo)
 - [Inspiration](#inspiration)
@@ -15,7 +15,7 @@
 ## Introduction
 This project aims to build an enterprise-grade Personalization and Recommendation System powered by LLMs (Large Language Models). The system will leverage customer profiles, social media sentiments, and transaction history to deliver highly personalized recommendations. It will integrate vector databases for efficient similarity searches and real-time processing for instant insights. The solution is designed for enterprise-scale deployment, ensuring robustness, scalability, and seamless integration into existing banking or financial ecosystems.
 
-## 🎥 Demo
+## Demo
 📹 [Video Demo](#) https://github.com/ewfx/aidhp-perzonix/releases/download/V1.0/final_video.mov
 
 🖼️ Screenshots:
@@ -40,7 +40,7 @@ Complex Sentiment Analysis → Extracting insights from unstructured, slang-heav
 Privacy & Compliance → Balancing personalization while ensuring financial data privacy (e.g., GDPR).
 UI & Performance → Keeping the Streamlit app responsive with real-time recommendations.
 
-## 🏃 How to Run
+## Steps for Execution
 1. Clone the repository  
    ```sh
    git clone git@github.com:ewfx/aidhp-perzonix.git
@@ -48,7 +48,7 @@ UI & Performance → Keeping the Streamlit app responsive with real-time recomme
 2. Go to Google Colab as we can leverage the GPU
    https://colab.research.google.com
 
-2. Install dependencies in colab
+3. Install dependencies in colab
    ```sh
    %pip install langchain langchain-community langchain-core transformers
    %pip install sentence-transformers
@@ -72,10 +72,13 @@ UI & Performance → Keeping the Streamlit app responsive with real-time recomme
    ```
 ![alt text](artifacts/arch/colab_image.png)
 
+4. Upload app.py and logo-png.png files to colab
+
 3. Run the project  
 ![alt text](artifacts/arch/UI_image.png)
 
 
 ## 🏗️ Tech Stack
 - 🔹 Frontend: streamlit
-- 🔹 Machine Learning: HuggingFace, CUDA, Transformers
+- 🔹 Machine Learning: HuggingFace, CUDA,
+         Langchain, Chromadb
