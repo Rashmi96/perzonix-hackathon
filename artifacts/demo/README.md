@@ -1,4 +1,4 @@
-Please find the attached PPT presentation and demo video, which provide an in-depth overview of the project, including key features, architecture, and a live demonstration of its functionality. Let us know if you have any questions or need further details!
+Please find the attached PPT presentation and demo video, which provides an in-depth overview of the project, including key features, architecture, and a live demonstration of its functionality.
 
 ## Demo
 PPT Deck: [Recommendation_system.pptx](Recommendation_system.pptx)
