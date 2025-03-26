@@ -22,6 +22,7 @@ This project aims to build an enterprise-grade Personalization and Recommendatio
 
 ![Screenshot 1](link-to-image)
 
+
 ## 💡 Inspiration
 The inspiration for this project comes from the growing need for hyper-personalized customer experiences in the financial sector. With increasing digital interactions, customers expect tailored recommendations, insights, and financial guidance based on their preferences, behaviors, and spending patterns.
 
