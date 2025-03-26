@@ -47,7 +47,9 @@ UI & Performance → Keeping the Streamlit app responsive with real-time recomme
 2. Go to Google Colab as we can leverage the GPU
    https://colab.research.google.com
 
-3. Install dependencies in colab
+3. Upload app.py and logo-png.png files to colab
+
+4. Install dependencies in colab
    ```sh
    %pip install langchain langchain-community langchain-core transformers
    %pip install sentence-transformers
@@ -69,14 +71,14 @@ UI & Performance → Keeping the Streamlit app responsive with real-time recomme
    ```sh
    !streamlit run /content/app.py & npx localtunnel --port 8501
    ```
-   Open the External URL to streamlit UI as below,
-![alt text](artifacts/arch/how_ui.png)
-
 ![alt text](artifacts/arch/colab_image.png)
 
-4. Upload app.py and logo-png.png files to colab
+   Open the External URL to streamlit UI as below,
+   
+![alt text](artifacts/arch/how_ui.png)
 
-5. Run the project  
+5. Run the project
+   
 ![alt text](artifacts/arch/UI_image.png)
 
 ## Steps for Test Execution
