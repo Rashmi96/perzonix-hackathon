@@ -66,7 +66,7 @@ UI & Performance → Keeping the Streamlit app responsive with real-time recomme
    !streamlit run /content/app.py & npx localtunnel --port 8501
    ```
    Open the External URL to streamlit UI as below,
-   ![alt text](artifacts/arch/image.png)
+   ![alt text](artifacts/arch/how_ui.png)
 
 ![alt text](artifacts/arch/colab_image.png)
 
