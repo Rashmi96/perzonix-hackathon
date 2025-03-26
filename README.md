@@ -49,6 +49,27 @@ UI & Performance → Keeping the Streamlit app responsive with real-time recomme
    https://colab.research.google.com
 
 2. Install dependencies in colab
+   ```sh
+   %pip install langchain langchain-community langchain-core transformers
+   %pip install sentence-transformers
+   %pip install chromadb
+   %pip install bitsandbytes accelerate
+   %pip uninstall -y keras
+   %pip install keras==2.11.0
+   %pip install tf-keras
+   %pip install --upgrade transformers
+   %pip install faker
+   %pip install streamlit
+   ```
+
+   ```sh
+   !npm install -g localtunnel
+   ```
+
+   Run the app.py in streamlit
+   ```sh
+   !streamlit run /content/app.py & npx localtunnel --port 8501
+   ```
 ![alt text](artifacts/arch/colab_image.png)
 
 3. Run the project  
