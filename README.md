@@ -7,7 +7,7 @@
 - [What It Does](#what-it-does)
 - [How We Built It](#how-we-built-it)
 - [Challenges We Faced](#challenges-we-faced)
-- [How to Run](#how-to-run)
+- [Steps for Execution](#Steps-for-Execution)
 - [Tech Stack](#tech-stack)
 
 ---
@@ -17,11 +17,6 @@ This project aims to build an enterprise-grade Personalization and Recommendatio
 
 ## Demo
 📹 [Video Demo](#) https://github.com/ewfx/aidhp-perzonix/releases/download/V1.0/final_video.mov
-
-🖼️ Screenshots:
-
-![Screenshot 1](link-to-image)
-
 
 ## 💡 Inspiration
 The inspiration for this project comes from the growing need for hyper-personalized customer experiences in the financial sector. With increasing digital interactions, customers expect tailored recommendations, insights, and financial guidance based on their preferences, behaviors, and spending patterns.
@@ -74,7 +69,7 @@ UI & Performance → Keeping the Streamlit app responsive with real-time recomme
 
 4. Upload app.py and logo-png.png files to colab
 
-3. Run the project  
+5. Run the project  
 ![alt text](artifacts/arch/UI_image.png)
 
 
