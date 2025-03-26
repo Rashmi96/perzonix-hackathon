@@ -75,7 +75,20 @@ UI & Performance → Keeping the Streamlit app responsive with real-time recomme
 5. Run the project  
 ![alt text](artifacts/arch/UI_image.png)
 
+## Steps for Execution
 
+  1. Go to Google Colab
+     https://colab.research.google.com
+     
+     Install dependencies in colab
+
+     !pip install pytest
+     
+  2. Uplaod appTest.py file in same location where you have uploaded app.py
+  3. Run !pytest appTest.py
+
+     ![image](https://github.com/user-attachments/assets/ad35e2ad-fe3f-4367-afc1-919514cab73b)   
+   
 ## Tech Stack
 - 🔹 Frontend: streamlit
 - 🔹 Machine Learning: HuggingFace, CUDA,
