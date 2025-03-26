@@ -19,7 +19,7 @@ It leverages **Large Language Models (LLMs), Retrieval-Augmented Generation (RAG
 
 ## **Project Architecture**
 
-![alt text](artifacts/arch/image.png)
+![alt text](architecture.png)
 ---
 
 ## **Model Selection**
