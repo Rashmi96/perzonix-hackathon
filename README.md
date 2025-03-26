@@ -75,7 +75,7 @@ UI & Performance → Keeping the Streamlit app responsive with real-time recomme
 5. Run the project  
 ![alt text](artifacts/arch/UI_image.png)
 
-## Steps for Execution
+## Steps for Test Execution
 
   1. Go to Google Colab
      https://colab.research.google.com
