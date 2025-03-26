@@ -1,4 +1,4 @@
-# Hyper-Personaization and Recommendation System
+# Hyper-Personaization and Recommendation System(Perzonix)
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -18,16 +18,16 @@ This project aims to build an enterprise-grade Personalization and Recommendatio
 ## Demo
 📹 [Video Demo](#) https://github.com/ewfx/aidhp-perzonix/releases/download/V1.0/final_video.mov
 
-## 💡 Inspiration
+## Inspiration
 The inspiration for this project comes from the growing need for hyper-personalized customer experiences in the financial sector. With increasing digital interactions, customers expect tailored recommendations, insights, and financial guidance based on their preferences, behaviors, and spending patterns.
 
-## ⚙️ What It Does
+## What It Does
 The Enterprise-Grade Personalization and Recommendation System analyzes customer profiles, social media sentiments, and transaction history to deliver real-time, AI-driven recommendations tailored to individual users.
 
-## 🛠️ How We Built It
+## How We Built It
 This Enterprise-Grade Personalization and Recommendation System leverages a combination of LLMs (Large Language Models), vector databases, real-time processing frameworks, and Retrieval-Augmented Generation (RAG) to provide highly accurate and context-aware recommendations.
 
-## 🚧 Challenges We Faced
+## Challenges We Faced
 Large-Scale Data Processing → Efficient storage and retrieval of vast customer datasets.
 AI Model Optimization → Zephyr-7B required GPU acceleration and tuning for real-time performance.
 Vector Database Performance → Optimizing ChromaDB for fast and scalable embeddings retrieval.
@@ -73,7 +73,7 @@ UI & Performance → Keeping the Streamlit app responsive with real-time recomme
 ![alt text](artifacts/arch/UI_image.png)
 
 
-## 🏗️ Tech Stack
+## Tech Stack
 - 🔹 Frontend: streamlit
 - 🔹 Machine Learning: HuggingFace, CUDA,
          Langchain, Chromadb
