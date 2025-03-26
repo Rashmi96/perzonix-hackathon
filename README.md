@@ -8,6 +8,7 @@
 - [How We Built It](#how-we-built-it)
 - [Challenges We Faced](#challenges-we-faced)
 - [Steps for Execution](#Steps-for-Execution)
+- [Steps for Test Execution](#Steps-for-Test-Execution)
 - [Tech Stack](#tech-stack)
 
 ---
@@ -77,6 +78,8 @@ UI & Performance → Keeping the Streamlit app responsive with real-time recomme
 
 ## Steps for Test Execution
 
+### To test app.py
+
   1. Go to Google Colab
      https://colab.research.google.com
      
@@ -84,11 +87,25 @@ UI & Performance → Keeping the Streamlit app responsive with real-time recomme
 
      !pip install pytest
      
-  2. Uplaod appTest.py file in the same location where you have uploaded app.py
+  2. Upload the appTest.py file to the same location where you uploaded app.py
   3. Run !pytest appTest.py
 
-     ![image](https://github.com/user-attachments/assets/ad35e2ad-fe3f-4367-afc1-919514cab73b)   
-   
+     ![image](https://github.com/user-attachments/assets/ad35e2ad-fe3f-4367-afc1-919514cab73b)
+
+### To test trainApp.py
+
+   1. Go to Google Colab
+      https://colab.research.google.com
+     
+      Install dependencies in colab
+
+      !pip install pytest
+     
+  2. Upload the trainAppTest.py file to the same location where you uploaded train.py
+  3. Run !pytest trainAppTest.py
+
+     ![image](https://github.com/user-attachments/assets/42386210-0a9d-4d77-973e-fe04139dca38)
+     
 ## Tech Stack
 - 🔹 Frontend: streamlit
 - 🔹 Machine Learning: HuggingFace, CUDA,
