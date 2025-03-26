@@ -84,7 +84,7 @@ UI & Performance → Keeping the Streamlit app responsive with real-time recomme
 
      !pip install pytest
      
-  2. Uplaod appTest.py file in same location where you have uploaded app.py
+  2. Uplaod appTest.py file in the same location where you have uploaded app.py
   3. Run !pytest appTest.py
 
      ![image](https://github.com/user-attachments/assets/ad35e2ad-fe3f-4367-afc1-919514cab73b)   
