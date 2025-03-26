@@ -1,5 +1,4 @@
-Replace this file with files that you would like to use for your demo. This may include
+Please find the attached PPT presentation and demo video, which provide an in-depth overview of the project, including key features, architecture, and a live demonstration of its functionality. Let us know if you have any questions or need further details!
 
-- A presentation/deck in pdf or pptx format
-- A demo video (screen capture) in mp4 or other popular video formats
-- Any other document describing your solution (in pdf or md format)
+## Demo
+📹 [Video Demo](#) https://github.com/ewfx/aidhp-perzonix/releases/download/V1.0/final_video.mov
